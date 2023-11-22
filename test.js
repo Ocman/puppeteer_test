@@ -1,4 +1,3 @@
-console.log("Hello, World!");
 const puppeteer = require('puppeteer');
 
 (async function(){
